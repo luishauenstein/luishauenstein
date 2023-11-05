@@ -1,4 +1,3 @@
-some stuff from me with non-public repos:
+non-public repo:
 
-- [fake-tweet.com](https://fake-tweet.com)
 - [starcaders.com](https://starcaders.com)
